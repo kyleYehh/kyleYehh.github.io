@@ -10,7 +10,7 @@ I received my Bachelor's Degree of Automation at [College of Control Science and
 [[Paper](https://arxiv.org/abs/2008.03468) | [Video](https://youtu.be/nNS0p8h5zAk) | [Code](https://github.com/ZJU-FAST-Lab/TGK-Planner)]
 
 
-* Lizi Wang*, Hongkai Ye*, Qianhao Wang, Chao Xu, Fei Gao, __Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments__. Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2021_. 
+* Lizi Wang<sup>#</sup>, Hongkai Ye<sup>#</sup>, Qianhao Wang, Chao Xu, Fei Gao, __Learning-based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments__. Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2021_.
 [[Paper](https://arxiv.org/abs/2011.03981) | [Video](https://www.youtube.com/watch?v=Qb3ni_j0Dic)]
 
 
@@ -25,5 +25,7 @@ I received my Bachelor's Degree of Automation at [College of Control Science and
 * Hongkai Ye, Jiangcheng Zhu, Zhepei Wang, Chao Xu, __An Experiment Implementation of Outdoor Formation Flight__. In _IEEE International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (CYBER), 2018_.
 [[Paper](https://ieeexplore.ieee.org/document/8688312)]
 
+
+ <sup>#</sup> for equal contribution.
 
 ## Competitions and Projects
