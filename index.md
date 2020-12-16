@@ -7,12 +7,9 @@
         <img src="misc/me1.jpg" width = "195" height = "300"/>
       </td>
       <td>
-
 Hello there, I am Kyle, currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. Chao Xu. During these years, I have been developing motion planning methods for robot autonomous navigation, mostly for UAVs. 
 
 I received my Bachelor's Degree of Automation at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/), [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. I then started my master's program and a successive doctoral program in 2020, also in CSE, ZJU. I once worked as an intern at Autowise.ai (2019) and at DJI in the navigation group (2020).
-
-[ __kyle_yeh at 163 dot com__ | [Github](https://github.com/kyleYehh)]
       </td>
     </tr>
   </table>
