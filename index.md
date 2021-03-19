@@ -6,6 +6,9 @@ Hello there, I am Kyle, currently a Ph.D candidate at [ZJU Fast Lab](http://www.
 I received my Bachelor's Degree of Automation at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/), [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. I then started my master's program and a successive doctoral program in 2020, also in CSE, ZJU. I once worked as an intern at Autowise.ai (2019) and at DJI in the navigation group (2020).
 
 ## Publications
+* Hongkai Ye, Tianyu Liu, Chao Xu, Fei Gao, __Integrating Fast Regional Optimization into Sampling-based Kinodynamic Planning for Multirotor Flight__. Submitted to _IEEE International Conference on Intelligent Robots and Systems (IROS), 2021_. 
+[[Paper](https://arxiv.org/abs/2103.05519) | [Video](https://www.youtube.com/watch?v=gJ6ttY34iWA) | [Code](https://github.com/ZJU-FAST-Lab/kino_sampling_with_regional_opti)]
+
 * Hongkai Ye, Xin Zhou, Zhepei Wang, Chao Xu, Jian Chu, Fei Gao, __TGK-Planner: An Efficient Topology Guided Kinodynamic Planner for Autonomous Quadrotors__. Accepted by _IEEE Robotics and Automation Letters (RA-L), 2020_. 
 [[Paper](https://arxiv.org/abs/2008.03468) | [Video](https://youtu.be/nNS0p8h5zAk) | [Code](https://github.com/ZJU-FAST-Lab/TGK-Planner)]
 
@@ -14,7 +17,7 @@ I received my Bachelor's Degree of Automation at [College of Control Science and
 [[Paper](https://arxiv.org/abs/2011.03981) | [Video](https://www.youtube.com/watch?v=Qb3ni_j0Dic)]
 
 
-* Zhepei Wang, Hongkai Ye, Chao Xu, and Fei Gao, __Generating Large-Scale Trajectories Efficiently using Double Descriptions of Polynomials__. Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2021_. 
+* Zhepei Wang, Hongkai Ye, Chao Xu, and Fei Gao, __Generating Large-Scale Trajectories Efficiently using Double Descriptions of Polynomials__. To be appear in _IEEE International Conference on Robotics and Automation (ICRA), 2021_. 
 [[Paper](https://arxiv.org/abs/2011.02662) | [Video](https://www.youtube.com/watch?v=tA3fIyggH4I)]
 
 
