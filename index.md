@@ -8,12 +8,12 @@ I received my Bachelor's Degree of Automation at [College of Control Science and
 ## Publications
 * __Hongkai Ye__, Chao Xu, Fei Gao, __Spatio-temporal Deformable Trees for Sampling-based Multirotor Kinodynamic Planning__. In Progress.
 
-* __Hongkai Ye__, Pan Neng, Chao Xu, Fei Gao, __Efficient Sampling-based Kinodynamic Planning with Regional Optimization and Bidirectional Search for Multirotors__. Under Review.
+* __Hongkai Ye__, Neng Pan, Chao Xu, Fei Gao, __Efficient Sampling-based Kinodynamic Planning with Regional Optimization and Bidirectional Search for Multirotors__. Under Review.
 
 * __Hongkai Ye__, Tianyu Liu, Chao Xu, Fei Gao, __Integrating Fast Regional Optimization into Sampling-based Kinodynamic Planning for Multirotor Flight__. Technical Report, 2021. 
 [[Paper](https://arxiv.org/abs/2103.05519) | [Video](https://www.youtube.com/watch?v=gJ6ttY34iWA) | [Code](https://github.com/ZJU-FAST-Lab/kino_sampling_with_regional_opti)]
 
-* Hongkai Ye, Xin Zhou, Zhepei Wang, Chao Xu, Jian Chu, Fei Gao, __TGK-Planner: An Efficient Topology Guided Kinodynamic Planner for Autonomous Quadrotors__. Published in _IEEE Robotics and Automation Letters (RA-L), 2021_. 
+* __Hongkai Ye__, Xin Zhou, Zhepei Wang, Chao Xu, Jian Chu, Fei Gao, __TGK-Planner: An Efficient Topology Guided Kinodynamic Planner for Autonomous Quadrotors__. Published in _IEEE Robotics and Automation Letters (RA-L), 2021_. 
 [[Paper](https://arxiv.org/abs/2008.03468) | [Video](https://youtu.be/nNS0p8h5zAk) | [Code](https://github.com/ZJU-FAST-Lab/TGK-Planner)]
 
 
