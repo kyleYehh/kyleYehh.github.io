@@ -1,5 +1,5 @@
 # Hongkai YE (叶鸿凯)
-<img src="misc/me1.jpg" width = "195" height = "300"/>
+<img src="misc/smile_big.jpg" width = "114" height = "147"/>
 
 Hello there, I am Kyle, currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. Chao Xu. During these years, I have been developing motion planning methods for robot autonomous navigation, mostly for UAVs. 
 
